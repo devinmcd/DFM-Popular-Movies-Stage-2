@@ -1,4 +1,4 @@
-package com.example.dfmpopularmoviesstage1;
+package com.example.dfmpopularmoviesstage2;
 
 import android.os.Bundle;
 import android.widget.ImageView;
@@ -7,7 +7,7 @@ import android.widget.TextView;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.dfmpopularmoviesstage1.Model.Movie;
+import com.example.dfmpopularmoviesstage2.Model.Movie;
 import com.squareup.picasso.Picasso;
 
 public class MovieDetailsActivity extends AppCompatActivity {

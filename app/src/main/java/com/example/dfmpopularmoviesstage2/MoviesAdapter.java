@@ -1,4 +1,4 @@
-package com.example.dfmpopularmoviesstage1;
+package com.example.dfmpopularmoviesstage2;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,7 +11,7 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.dfmpopularmoviesstage1.Model.Movie;
+import com.example.dfmpopularmoviesstage2.Model.Movie;
 import com.squareup.picasso.*;
 
 public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.ViewHolder> {

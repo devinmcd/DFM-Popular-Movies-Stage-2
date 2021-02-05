@@ -1,4 +1,4 @@
-package com.example.dfmpopularmoviesstage1;
+package com.example.dfmpopularmoviesstage2;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.example.dfmpopularmoviesstage1", appContext.getPackageName());
+        assertEquals("com.example.dfmpopularmoviesstage2", appContext.getPackageName());
     }
 }

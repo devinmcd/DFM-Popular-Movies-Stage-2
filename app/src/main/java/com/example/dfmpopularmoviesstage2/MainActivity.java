@@ -1,4 +1,4 @@
-package com.example.dfmpopularmoviesstage1;
+package com.example.dfmpopularmoviesstage2;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.DividerItemDecoration;
@@ -10,10 +10,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Spinner;
-import android.widget.TextView;
 
-import com.example.dfmpopularmoviesstage1.Model.Movie;
-import com.example.dfmpopularmoviesstage1.Utils.NetworkUtils;
+import com.example.dfmpopularmoviesstage2.Model.Movie;
+import com.example.dfmpopularmoviesstage2.Utils.NetworkUtils;
 
 import org.json.JSONArray;
 import org.json.JSONException;

@@ -1,4 +1,4 @@
-package com.example.dfmpopularmoviesstage1;
+package com.example.dfmpopularmoviesstage2;
 
 import org.junit.Test;
 

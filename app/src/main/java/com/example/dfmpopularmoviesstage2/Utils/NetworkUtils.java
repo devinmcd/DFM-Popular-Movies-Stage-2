@@ -1,4 +1,4 @@
-package com.example.dfmpopularmoviesstage1.Utils;
+package com.example.dfmpopularmoviesstage2.Utils;
 
 import android.net.Uri;
 import android.util.Log;
