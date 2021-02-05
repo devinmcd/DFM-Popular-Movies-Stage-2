@@ -70,7 +70,6 @@ public class MainActivity extends AppCompatActivity {
             moviesArray[i].setOverview(movieDetails.getString("overview"));
             moviesArray[i].setReleaseDate(movieDetails.getString("release_date"));
             moviesArray[i].setPosterPath(movieDetails.getString("poster_path"));
-            moviesArray[i].set
         }
         return moviesArray;
     }
