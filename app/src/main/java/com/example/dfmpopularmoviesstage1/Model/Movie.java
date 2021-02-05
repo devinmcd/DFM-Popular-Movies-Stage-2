@@ -22,7 +22,6 @@ public class Movie implements Parcelable {
         releaseDate = parcel.readString();
         posterPath = parcel.readString();
     }
-
     public Movie() {}
 
     public static final Creator<Movie> CREATOR = new Creator<Movie>() {
